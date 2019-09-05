@@ -1,0 +1,1 @@
+{"jobID":"6e8fd04d-a76d-4b19-8f56-2bb40383fe95","spec":{"type":"policy","cause":{"Message":"","User":"John Batty \u003cjohn.batty@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
